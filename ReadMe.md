@@ -1,7 +1,8 @@
 
 # Quest Discord Presence Client
 
-A Remake Inspired by Lauries Quest Discord RPC from a year ago.
+A client for a mod for Quest BeatSaber.
+
 
 # Info
 - You must have the [my mod](https://github.com/Core-Quest/Quest-RPC/releases/download/v0.1.0/QuestDiscordRPC.qmod) installed on your Quest version of Beat Saber for this to work.
