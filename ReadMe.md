@@ -19,7 +19,7 @@ Please Fallow this or join my [discord](https://discord.gg/ZhJ5SSCS6M) for suppo
 6. If you need to change your Quest IP, open the app from the your start menu.
 
 
-## MacOS users!
+## MacOS
 I tried to add functionality, but I dont have a mac so please test for me.
 feel free to try [MadMagic's client](https://github.com/madmagic007/Oculus-Quest-Presence)
 
