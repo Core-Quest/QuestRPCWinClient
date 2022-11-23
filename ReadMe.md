@@ -5,7 +5,7 @@ A client for a mod for Quest BeatSaber.
 
 
 # Info
-- You must have the [my mod](https://github.com/Core-Quest/Quest-RPC/releases/download/v0.1.0/QuestDiscordRPC.qmod) installed on your Quest version of Beat Saber for this to work.
+- You must have [my mod](https://github.com/Core-Quest/Quest-RPC/releases/download/v0.1.0/QuestDiscordRPC.qmod) installed on your Quest version of Beat Saber for this to work.
 - Make Sure you have Discord Windows version **not browser!**
 
 # Installation instructions
