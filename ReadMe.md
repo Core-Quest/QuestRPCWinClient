@@ -19,8 +19,9 @@ Please Fallow this or join my [discord](https://discord.gg/ZhJ5SSCS6M) for suppo
 
 
 ## MacOS users!
-please use [MadMagic's client](https://github.com/madmagic007/Oculus-Quest-Presence), as this runs fine on MacOS as of now.
+I tried to, but I dont have a mac so please test for me.
+feel free to try [MadMagic's client](https://github.com/madmagic007/Oculus-Quest-Presence)
 
 
 ## Linux
-**Working on it!**
+Not supported as of now but **Working on it!**
