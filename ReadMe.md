@@ -15,7 +15,7 @@ Please Fallow this or join my [discord](https://discord.gg/ZhJ5SSCS6M) for suppo
 3. Put your Quest's IP addresss (found in Tools tab of BMBF) in the box and hit confirm.
 4. Open Beat Saber and check that it says **Status: Succesfully received presence from Quest!**.
 5. You can now close the app and it will run in the background, automatically starting/stopping presence whenever BS is open/closed.
-6. If you need to change your Quest IP, open the app from the start menu.
+6. If you need to change your Quest IP, open the app from the your start menu.
 
 
 ## MacOS users!
