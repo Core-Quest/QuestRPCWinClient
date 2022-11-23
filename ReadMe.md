@@ -20,7 +20,7 @@ Please Fallow this or join my [discord](https://discord.gg/ZhJ5SSCS6M) for suppo
 
 
 ## MacOS users!
-I tried to, but I dont have a mac so please test for me.
+I tried to add functionality, but I dont have a mac so please test for me.
 feel free to try [MadMagic's client](https://github.com/madmagic007/Oculus-Quest-Presence)
 
 
